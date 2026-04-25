@@ -35,6 +35,8 @@ I came up through competitive robotics — writing perception and control system
 
 ## What I'm Building
 
+![Stack](https://skillicons.dev/icons?i=go,postgres,redis,docker,python)
+
 ### 🏦 [GoTx](https://github.com/j-victor-oliveira/GoTx) — Digital Wallet Engine
 > A production-grade RESTful API in Go for managing digital wallets and processing transfers with full ACID guarantees.
 
