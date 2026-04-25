@@ -61,8 +61,8 @@ Optional: Python worker for analytics / anomaly detection
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=default&hide_border=true&langs_count=6)
+![Stats](https://github-readme-stats.vercel.app/api?username=j-victor-oliveira&show_icons=true&theme=default&hide_border=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=j-victor-oliveira&layout=compact&theme=default&hide_border=true&langs_count=6)
 
 </div>
 
