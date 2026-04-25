@@ -1,13 +1,13 @@
 <div align="center">
 
-# Hey, I'm [Your Name] 👋
+# Hey, I'm João Victor de Oliveira 👋
 
 **Systems & Backend Engineer** — I build things that have to be fast, correct, and not fall over.
 
 Go · C++ · Python · Distributed Systems · Edge AI
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jvictoroliveira-/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:j.victor.oliveira.eng@gmail.com)
 
 </div>
 
@@ -18,8 +18,6 @@ Go · C++ · Python · Distributed Systems · Edge AI
 Computer Engineering student at UNIVASF (Brazil), focused on systems programming, backend infrastructure, and edge AI.
 
 I came up through competitive robotics — writing perception and control systems under real hardware constraints. That taught me to care deeply about correctness and latency, not just "working code". Currently channeling that into backend systems with Go, where reliability is the job.
-
-My trajectory: **Tier-1 Brazilian backend engineering → international market → deep tech infrastructure.**
 
 ---
 
@@ -37,14 +35,12 @@ My trajectory: **Tier-1 Brazilian backend engineering → international market �
 
 ## What I'm Building
 
-### 🏦 [go-vault](https://github.com/your-username/go-vault) — Digital Wallet Engine
+### 🏦 [GoTx](https://github.com/j-victor-oliveira/GoTx) — Digital Wallet Engine
 > A production-grade RESTful API in Go for managing digital wallets and processing transfers with full ACID guarantees.
 
 **The hard parts I'm solving:**
 - **Idempotency** — network failures cannot cause duplicate transactions
-- **Transactional correctness** — PostgreSQL + proper isolation levels, no shortcuts
-- **Cache invalidation** — Redis as the consistency layer, not just a speed trick
-- **Containerized from day one** — Docker Compose for the full local stack
+-
 
 ```
 Stack: Go (chi) · PostgreSQL · Redis · Docker Compose
