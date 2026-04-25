@@ -15,7 +15,7 @@ Go · C++ · Python · Distributed Systems · Edge AI
 
 ## About
 
-Computer Engineering student at UNIVASF (Brazil), focused on systems programming, backend infrastructure, and edge AI.
+Computer Engineering student at Federal University of Vale do São Francisco (UNIVASF) - Brazil, focused on systems programming, backend infrastructure, and edge AI.
 
 I came up through competitive robotics — writing perception and control systems under real hardware constraints. That taught me to care deeply about correctness and latency, not just "working code". Currently channeling that into backend systems with Go, where reliability is the job.
 
